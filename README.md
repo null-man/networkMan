@@ -1,9 +1,9 @@
 # networkMan
 
-### 技术核心
+### 核心技术
 python + phantomjs
 ### 功能
-爬取nwtwork所有记录
+爬取network所有记录
 ### 使用方向
 爬取H5游戏等
 
