@@ -13,12 +13,12 @@ python + phantomjs
     cmd = "phantomjs全路径 netlog.js全路径 "
 
     一样留空格<br/>
-    url = "被访问的url（比如H5游戏） "<br/><br/>
+    url = "被访问的url（比如H5游戏） "
 
     最后加/<br/>
-    txt_path_head = '本地存放路径'<br/>
-    txt_path_suffix = "index.txt"<br/>
-    txt_path = txt_path_head + txt_path_suffix<br/>
+    txt_path_head = '本地存放路径'
+    txt_path_suffix = "index.txt"/>
+    txt_path = txt_path_head + txt_path_suffix
 
     解析域名（为了还原文件的位置）
     domain = '4399.com/'
