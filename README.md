@@ -12,10 +12,10 @@ python + phantomjs
     记得后面要留空格做拼接命令
     cmd = "phantomjs全路径 netlog.js全路径 "
 
-    一样留空格<br/>
+    一样留空格
     url = "被访问的url（比如H5游戏） "
 
-    最后加/<br/>
+    最后加/
     txt_path_head = '本地存放路径'
     txt_path_suffix = "index.txt"/>
     txt_path = txt_path_head + txt_path_suffix
